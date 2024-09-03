@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me:
-I am a 28-year-old master's student specializing in networking, with over 3 years of experience in cybersecurity, focusing on web application and API penetration testing. My expertise lies in identifying and mitigating security vulnerabilities while implementing advanced security solutions to protect data and systems. I am committed to continuous learning and staying updated on the latest threats and countermeasures through workshops and conferences. My strong analytical and communication skills enable me to collaborate effectively with cross-functional teams and deliver tailored security solutions
+I am a 28-year-old master's student specializing in networking, with over 4 years of experience in cybersecurity, focusing on web application and API penetration testing. My expertise lies in identifying and mitigating security vulnerabilities while implementing advanced security solutions to protect data and systems. I am committed to continuous learning and staying updated on the latest threats and countermeasures through workshops and conferences. My strong analytical and communication skills enable me to collaborate effectively with cross-functional teams and deliver tailored security solutions
 
 
 ## 🌐 Socials:
